@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;500&family=Roboto:wght@100&display=swap');
+.navbar{
+    border-bottom: 2px solid black;
+    box-shadow: 0px 1px 10px 0px black; 
+}
+.nav--image{
+    width: 10vw;
+    padding:1vh;
+    height: auto;
+}
+.heroSection{
+    display: flex;
+    flex-flow: column;
+    justify-content: center;
+}
+.heroImage{
+    width: 50vw;
+    margin: auto;
+}
+.heroFont{
+    font-family: 'Roboto', sans-serif;
+    font-size: x-large;
+    margin-left: 5vw;
+}
